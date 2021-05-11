@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser automated-insight-demo.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True automated-insight-demo.ipynb
