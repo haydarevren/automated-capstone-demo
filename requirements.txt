@@ -6,4 +6,6 @@ seaborn==0.11.0
 matplotlib==3.3.2
 scikit_learn==0.24.2
 umap==0.1.1
-voila==0.2.10
+voila
+jupyter 
+voila-gridstack
